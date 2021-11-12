@@ -1,0 +1,27 @@
+.blueTab{
+    -fx-text-fill: white;
+}
+.blueTab:hover {
+     -fx-text-fill: white;
+     -fx-border-color: #228B22;
+     -fx-border-width: 4px;
+}
+.blueTab:pressed {
+     -fx-text-fill: white;
+     -fx-border-color: #228B22;
+     -fx-border-width: 2px;
+}
+
+.greenTab{
+    -fx-text-fill: white;
+}
+.greenTab:hover {
+     -fx-text-fill: white;
+     -fx-border-color: #ff6666;
+     -fx-border-width: 4px;
+}
+.greenTab:pressed {
+     -fx-text-fill: white;
+     -fx-border-color: #ff6666;
+     -fx-border-width: 2px;
+}

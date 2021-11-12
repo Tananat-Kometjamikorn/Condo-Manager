@@ -1,0 +1,20 @@
+.startImage{
+    -fx-background-image:url('../picture/start.png');
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.bannerImage{
+    -fx-background-image:url('../picture/banner.jpg');
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.whiteImage{
+    -fx-background-image:url('../picture/whiteGround.jpg');
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}

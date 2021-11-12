@@ -1,0 +1,140 @@
+.buttonGreen {
+    -fx-background-color: #228B22;
+    -fx-background-radius: 23px;
+    -fx-text-fill: white;
+}
+.buttonGreen:hover {
+     -fx-background-color: white;
+     -fx-background-radius: 23px;
+     -fx-text-fill: #228B22;
+     -fx-border-color: #228B22;
+     -fx-border-radius: 20px;
+     -fx-border-width: 5px;
+}
+.buttonGreen:pressed {
+     -fx-background-color: #C2C5C8;
+     -fx-background-radius: 23px;
+     -fx-text-fill: #228B22;
+     -fx-border-color: #228B22;
+     -fx-border-radius: 20px;
+     -fx-border-width: 4px;
+}
+
+.buttonBlue {
+    -fx-background-color: #4169E1;
+    -fx-background-radius: 23px;
+    -fx-text-fill: white;
+}
+.buttonBlue:hover {
+     -fx-background-color: white;
+     -fx-background-radius: 23px;
+     -fx-text-fill: #4169E1;
+     -fx-border-color: #4169E1;
+     -fx-border-radius: 20px;
+     -fx-border-width: 5px;
+}
+.buttonBlue:pressed {
+     -fx-background-color: #C2C5C8;
+     -fx-background-radius: 23px;
+     -fx-text-fill: #4169E1;
+     -fx-border-color: #4169E1;
+     -fx-border-radius: 20px;
+     -fx-border-width: 4px;
+}
+
+.buttonAccept {
+    -fx-background-color: #9370DB;
+    -fx-background-radius: 23px;
+    -fx-text-fill: white;
+}
+.buttonAccept:hover {
+     -fx-background-color: white;
+     -fx-background-radius: 23px;
+     -fx-text-fill: #9370DB;
+     -fx-border-color: #9370DB;
+     -fx-border-radius: 20px;
+     -fx-border-width: 5px;
+}
+.buttonAccept:pressed {
+     -fx-background-color: #C2C5C8;
+     -fx-background-radius: 23px;
+     -fx-text-fill: #9370DB;
+     -fx-border-color: #9370DB;
+     -fx-border-radius: 20px;
+     -fx-border-width: 4px;
+}
+
+.buttonYellow {
+    -fx-background-color:  #ff9933;
+    -fx-background-radius: 20px;
+    -fx-text-fill: black;
+}
+.buttonYellow:hover {
+     -fx-background-color: white;
+     -fx-background-radius: 20px;
+     -fx-text-fill: #ff9933;
+     -fx-border-color: #ff9933;
+     -fx-border-radius: 17px;
+     -fx-border-width: 4px;
+}
+.buttonYellow:pressed {
+     -fx-background-color: #C2C5C8;
+     -fx-background-radius: 20px;
+     -fx-text-fill: #ff9933;
+     -fx-border-color: #ff9933;
+     -fx-border-radius: 17px;
+     -fx-border-width: 3px;
+}
+.buttonRed {
+    -fx-background-color:  #ff3333;
+    -fx-background-radius: 20px;
+    -fx-text-fill: black;
+}
+.buttonRed:hover {
+     -fx-background-color: white;
+     -fx-background-radius: 20px;
+     -fx-text-fill: #ff3333;
+     -fx-border-color: #ff3333;
+     -fx-border-radius: 17px;
+     -fx-border-width: 4px;
+}
+.buttonRed:pressed {
+     -fx-background-color: #C2C5C8;
+     -fx-background-radius: 20px;
+     -fx-text-fill: #ff3333;
+     -fx-border-color: #ff3333;
+     -fx-border-radius: 17px;
+     -fx-border-width: 3px;
+}
+.buttonBack{
+    -fx-background-color: linear-gradient(#60a1b0, #0088cc, #60a1b0);
+    -fx-text-fill: black;
+}
+.buttonBack: hover{
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+.buttonBack: pressed{
+    -fx-background-color: linear-gradient(#2A7058, #61c2b1);
+}
+
+.buttonLogin{
+    -fx-background-color: linear-gradient(#008000, #00b300, #008000);
+    -fx-text-fill: black;
+}
+.buttonLogin: hover{
+    -fx-background-color: linear-gradient(#00b300, #008000);
+}
+.buttonLogin: pressed{
+    -fx-background-color: linear-gradient(#05d300, #006f00);
+}
+
+.buttonLogout{
+    -fx-background-color: linear-gradient(#ff1a1a, #ff8080, #ff1a1a);
+    -fx-text-fill: black;
+}
+.buttonLogout: hover{
+    -fx-background-color: linear-gradient(#ff6666, #ff1a1a);
+}
+.buttonLogout: pressed{
+    -fx-background-color: linear-gradient(#cc0000, #b30000);
+}
